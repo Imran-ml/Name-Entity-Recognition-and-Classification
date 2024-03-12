@@ -1,4 +1,4 @@
-# Project Title
+# Name Entity Recognition and Classification
 
 ## Table of Contents
 
