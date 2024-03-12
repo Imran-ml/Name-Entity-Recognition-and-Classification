@@ -8,7 +8,7 @@
 - [Resources](#resources)
 - [License](#license)
 - [Conclusion](#conclusion)
-- [Contact](#contact)
+- [About Author](#about-author)
 
 ## Introduction
 
@@ -78,7 +78,7 @@ The best parameters for the Random Forest model were identified through grid sea
 
 The RNN model excelled due to its capability to remember information from previous instances, providing superior results.
 
-## Contact
+## About Author
 
 - **Name**: Muhammad Imran Zaman
 - **Email**: [imranzaman.ml@gmail.com](mailto:imranzaman.ml@gmail.com)
