@@ -29,7 +29,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this section you should describe your project, including any datasets you used and appropriate citations. You may refer to your project report or cite your paper for more detailed information.
+In this project, I trained a machine learning model to read doctor notes and understand key details like patient names and health-related terms. Using a process called Name Entity Recognition (NER) and Classification, it sorts the notes into two categories: "Others" for general information and "Syndrome" for specific health issues. This makes it simpler for the computer and ultimately for doctors, to quickly grasp the important bits in the notes, making healthcare decisions faster and more accurate. It's a smart assistant for doctors in understanding and organizing medical information!
+
+For a more detailed exploration of our methodology and results, refer to my [Kaggle notebook](https://www.kaggle.com/code/muhammadimran112233/name-entity-recognition-and-classification).
+
+To access the dataset used in this project, visit the [Kaggle dataset](https://www.kaggle.com/datasets/muhammadimran112233/clinical-documents-on-syndromes-disease).
+
+
 
 [Here goes the title with hyperlink](https://github.com/catiaspsilva/README-template)
 
