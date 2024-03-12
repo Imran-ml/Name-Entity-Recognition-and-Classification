@@ -3,15 +3,12 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-the-project">Description</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Setting Up a Virtual Environment</a>
       <ul>
-        <li><a href="#dependencies">Dependencies</a></li>
+        <li><a href="#dependencies">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -26,20 +23,14 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Description -->
+## Description
 
 In this project, I trained a machine learning model to read doctor notes and understand key details like patient names and health-related terms. Using a process called Name Entity Recognition (NER) and Classification, it sorts the notes into two categories: "Others" for general information and "Syndrome" for specific health issues. This makes it simpler for the computer and ultimately for doctors, to quickly grasp the important bits in the notes, making healthcare decisions faster and more accurate. It's a smart assistant for doctors in understanding and organizing medical information!
 
 For a more detailed exploration of our methodology and results, refer to my [Kaggle notebook](https://www.kaggle.com/code/muhammadimran112233/name-entity-recognition-and-classification).
 
 To access the dataset used in this project, visit the [Kaggle dataset](https://www.kaggle.com/datasets/muhammadimran112233/clinical-documents-on-syndromes-disease).
-
-
-
-[Here goes the title with hyperlink](https://github.com/catiaspsilva/README-template)
-
-You can include tables or images to summarize your results when and if appropriate.
 
 <!-- GETTING STARTED -->
 ## Getting Started
