@@ -1,4 +1,4 @@
-# Name Entity Recognition and Classification
+# Project Title
 
 ## Table of Contents
 
@@ -8,6 +8,8 @@
 - [Resources](#resources)
 - [License](#license)
 - [Contact](#contact)
+
+## Introduction
 
 This repository hosts the implementation and documentation for a machine learning project aimed at interpreting doctor notes through Name Entity Recognition (NER) and Classification techniques. The objective is to categorize medical notes into "Others" and "Syndrome" to facilitate quicker and more accurate healthcare decisions.
 
