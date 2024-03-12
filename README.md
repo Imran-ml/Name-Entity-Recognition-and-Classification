@@ -6,10 +6,10 @@
       <a href="#Description">Description</a>
     </li>
     <li>
-      <a href="#getting-started">Setting Up a Virtual Environment</a>
+      <a href="#Setting-Up-a-Virtual-Environment">Setting Up a Virtual Environment</a>
       <ul>
-        <li><a href="#dependencies">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Prerequisites">Prerequisites</a></li>
+        <li><a href="#Installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -32,8 +32,8 @@ For a more detailed exploration of our methodology and results, refer to my [Kag
 
 To access the dataset used in this project, visit the [Kaggle dataset](https://www.kaggle.com/datasets/muhammadimran112233/clinical-documents-on-syndromes-disease).
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Setting Up a Virtual Environment -->
+## Setting Up a Virtual Environment
 
 In this section you should provide instructions on how to use this repository to recreate your project locally.
 
