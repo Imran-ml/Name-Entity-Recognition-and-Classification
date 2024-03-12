@@ -3,7 +3,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Description</a>
+      <a href="#Description">Description</a>
     </li>
     <li>
       <a href="#getting-started">Setting Up a Virtual Environment</a>
