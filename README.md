@@ -48,7 +48,7 @@ To use this project, clone the repository and set up the environment as follows:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    https://github.com/Imran-ml/Name-Entity-Recognition-and-Classification.git
     ```
 2. **Setup the Environment**:
     - Navigate to the project directory and activate the virtual environment.
@@ -56,8 +56,8 @@ To use this project, clone the repository and set up the environment as follows:
 
 ## Resources
 
-- **Kaggle Notebook**: [View Notebook](YOUR_KAGGLE_NOTEBOOK_LINK_HERE)
-- **Dataset**: [View Dataset](YOUR_KAGGLE_DATASET_LINK_HERE)
+- **Kaggle Notebook**: [View Notebook](https://www.kaggle.com/code/muhammadimran112233/name-entity-recognition-and-classification)
+- **Dataset**: [View Dataset](https://www.kaggle.com/datasets/muhammadimran112233/clinical-documents-on-syndromes-disease)
 
 ## License
 
@@ -65,11 +65,11 @@ This project is made available under the MIT License.
 
 ## Contact
 
-- **Name**: Your Name
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Name**: Muhammad Imran Zaman
+- **Email**: [imranzaman.ml@gmail.com](mailto:imranzaman.ml@gmail.com)
 - **Professional Links**:
-    - Kaggle: [Profile](YOUR_KAGGLE_PROFILE_LINK_HERE)
-    - LinkedIn: [Profile](YOUR_LINKEDIN_PROFILE_LINK_HERE)
-    - Google Scholar: [Profile](YOUR_GOOGLE_SCHOLAR_PROFILE_LINK_HERE)
-    - YouTube: [Channel](YOUR_YOUTUBE_CHANNEL_LINK_HERE)
-- **Project Repository**: [GitHub Repo](https://github.com/your-username/your-repo-name)
+    - Kaggle: [Profile](https://www.kaggle.com/muhammadimran112233)
+    - LinkedIn: [Profile](linkedin.com/in/muhammad-imran-zaman)
+    - Google Scholar: [Profile](https://scholar.google.com/citations?user=ulVFpy8AAAAJ&hl=en)
+    - YouTube: [Channel](https://www.youtube.com/@consolioo)
+- **Project Repository**: [GitHub Repo](https://github.com/Imran-ml/Name-Entity-Recognition-and-Classification.git)
