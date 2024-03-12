@@ -57,8 +57,8 @@ To use this project, clone the repository and set up the environment as follows:
 
 ## Resources
 
-- **Kaggle Notebook**: [View Notebook](https://www.kaggle.com/code/muhammadimran112233/name-entity-recognition-and-classification)
-- **Dataset**: [View Dataset](https://www.kaggle.com/datasets/muhammadimran112233/clinical-documents-on-syndromes-disease)
+- **Kaggle Notebook**: <a href="https://www.kaggle.com/code/muhammadimran112233/name-entity-recognition-and-classification" target="_blank">View Notebook</a>
+- **Dataset**: <a href="https://www.kaggle.com/datasets/muhammadimran112233/clinical-documents-on-syndromes-disease" target="_blank">View Dataset</a>
 
 ## License
 
